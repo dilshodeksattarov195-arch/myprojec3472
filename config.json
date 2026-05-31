@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterfave",
+        "uuid": 20019552,
+        "checksum": "brzit4"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
